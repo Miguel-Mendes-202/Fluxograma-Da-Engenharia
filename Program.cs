@@ -34,4 +34,3 @@ else
      Console.WriteLine("ótimo!");
       Console.ResetColor();
 }
-
